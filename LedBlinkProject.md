@@ -1,4 +1,4 @@
-# Clignotement de LED
+# LED clignotante
 
 ## Aperçu
 

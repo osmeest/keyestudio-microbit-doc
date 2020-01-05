@@ -2,9 +2,10 @@
 
 # Aperçu
 
-Dans ce projet, nous combinons les project [2](LedBlinkProject.md) et [3](BreathProject.md). Vous apprendrez comment controler la LED du module pour la faire clignoter deux fois, puis la faire respirer deux fois, de manière répétitive. Cette fois, nous utiliserons le module LED 3W, qui a une haute  This time we use keyestudio 3W LED module, which has high brightness and can be used as illumination.
+Dans ce projet, nous combinons les project [2](LedBlinkProject.md) et [3](BreathProject.md). Vous apprendrez comment controler la LED du module pour la faire clignoter deux fois, puis la faire respirer deux fois, de manière répétitive. Cette fois, nous utiliserons le module LED 3W, qui a une haute intensité et peut être utilisé comme illuminateur.
 
 ## Composants nécessaires
+
 - carte micro:bit
 - carte de connexion keyestudio micro:bit Sensor Shield v2
 - cable USB
@@ -27,7 +28,8 @@ Notez que la lumière émise par ce module ne doit pas être dirigée vers des y
 - Courant: 700~750mA
 - Puissance: 3W
 - Angle d'illumination: 140 degree
-- Température de fonctionnement: -50~80°C / de stockage: -50~100°C
+- Température de fonctionnement: -50~80°C
+- Température de stockage: -50~100°C
 - Module LED haute puissance, contrôlé par port I/O de microcontroleur
 - Type de port de contrôle: numérique
 - Tension d'alimentation: 3.3~5V

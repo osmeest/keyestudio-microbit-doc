@@ -7,7 +7,7 @@
 - [Installation du logiciel Arduino IDE (Windows)](InstallArduinoIde.md)
 - Projets
   1. [Hello World](HelloWorldProject.md)
-  2. [Clignotement de LED](LedBlinkProject.md)
+  2. [LED clignotante](LedBlinkProject.md)
   3. [Respire](BreathProject.md)
   4. [Clignote et respire](BlinkAndBreathProject.md)
 
