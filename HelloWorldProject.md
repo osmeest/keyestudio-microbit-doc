@@ -7,18 +7,17 @@ Ce projet est très simple. Vous utiliserez uniquement la carte micro:bit et le 
 Notez que ce projet nécessite l'utilisation du module de communication série, Arduino IDE. Les instructions d'installation d'Arduino IDE sont données dans [une autre page](InstallArduinoIde.md).
 
 ## Composants nécessaires
+
 - carte micro:bit
 - cable USB
 
-## Connectez-le
+## Cablage du circuit
 
 Connectez la carte micro:bit à l'ordinateur par le cable micro USB.
 
 ![Microbit connecté](images/MicrobitConnected.png)
 
-## Code de test
-
-Si vous n'êtes pas familier avec l'écriture de code, ne vous inquiétez pas. Primo, vous trouverez plus d'information à propos des blocks micro:bit en suivant ce lien: https://makecode.microbit.org/reference . Ensuite, vous pouvez directment utiliser le site https://makecode.microbit.org/ pour éditer vos programmes. Ci-dessous, voici un exemple de code que nous vous donnons en référence.
+## Code du programme
 
 ![Code HelloWorld](images/HelloWorldCode.png)
 
@@ -30,7 +29,7 @@ Si vous n'êtes pas familier avec l'écriture de code, ne vous inquiétez pas. P
 
 Après le codage, envoyez le programme (fichier .hex) à votre micro:bit, ensuite ouvrez Arduino IDE.
 
-## Exemple de résultat
+## Résultats
 
 Ouvrez Arduino IDE, réglez correctement le port de communication.
 

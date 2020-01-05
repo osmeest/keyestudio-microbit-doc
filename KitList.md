@@ -1,9 +1,9 @@
 #Kit List
 
-|No.|Component|Quantity|Picture|
-|---|---|---|---|
+|No.|Component|Image|
+|---|---|---|
 |1|Plaque de connexion keyestudio pour micro:bit|![Plaque de connexion keyestudio](images/SensorShield.png)|
-|2|Module keyestudio digital LED blanche|![Module LED blanche](images/WhiteLedModule.png)|
+|2|Module keyestudio LED blanche simple|![Module LED blanche](images/WhiteLedModule.png)|
 |3|Module keyestudio LED blanche Piranha|![Module LED blanche Piranha](images/PiranhaWhiteLedModule.png)|
 |4|Module keyestudio LED 3W|![Module LED 3W](images/3wLedModule.png)|
 |5|Module keyestudio LED RGB (couleur)|![Module LED couleur](images/RgbLedModule.png)|

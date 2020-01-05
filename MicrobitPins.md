@@ -2,7 +2,7 @@
 
 Avant de commencer avec les projets suivant, nous devons d'abord déterminer la/les fonctions de chacune des connexions de la carte micro:bit. Référez vous au diagramme suivant:
 
-![Pin layout](images/MicrobitPins.png)
+![Diagramme de connexions micro:bit](images/MicrobitPins.png)
 
 La carte BBC micro:bit a 25 connexions externes sur le côté connecteur de la carte, que nous appelerons 'pins'. Le côté connecteur est la partie grise à droite dans le dessin ci-dessus. Il y a 5 grandes pins, qui sont aussi connectées aux trous étiquetés : 0, 1, 2, 3V, and GND (masse). Sur le même côté de la carte, il y a aussi 20 petites pins que vous pouvez utiliser lorsque vous connecter le BBC micro:bit dans un connecteur (comme, par exemple, le keyestudio Sensor Shield).
 
