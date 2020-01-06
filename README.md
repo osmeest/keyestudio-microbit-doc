@@ -11,11 +11,7 @@
   3. [Respire](BreathProject.md)
   4. [Clignote & respire](BlinkAndBreathProject.md)
   5. [Produire un son](MakeASoundProject.md)
-<<<<<<< HEAD
   6. [Joue de la musique](PlayMusicProject.md)
-=======
-  6. [Joue de la musique(PlayMusicProject.md)]
->>>>>>> bfd5521c1a83d5c484b743678737c7129408b6d0
 
   ## Code des programmes
 
