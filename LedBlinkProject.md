@@ -2,14 +2,14 @@
 
 ## Aperçu
 
-Le clignotement de LED est une des expériences les plus basiques. Dans l'exemple d'utilisation du micro:bit ci-dessous, nous avons mentionné l'affichage à 25 LED du micro:bit. Dans ce projet, vous allez apprendre à contrôler le clignotement d'une LED en utilisant un module LED blanche keyestudio et la carte sensor shield. Avant de tester, nous devons d'abord désactiver l'affichage 5x5 du micro:bit.
+Le clignotement de LED est une des expériences les plus basiques. Dans l'exemple d'utilisation du micro:bit ci-dessous, nous avons mentionné l'affichage à 25 LED du micro:bit. Dans ce projet, vous allez apprendre à contrôler le clignotement d'une LED en utilisant un module **LED blanche** et la carte Sensor Shield. Avant de tester, nous devons d'abord désactiver l'affichage 5x5 du micro:bit.
 
 ## Composants nécessaires
 
 - carte micro:bit
 - carte de connexion keyestudio micro:bit Sensor Shield v2
 - cable USB
-- module keyestudio LED blanche
+- module LED blanche
 - 3 cables jumper Dupont
 
 ## Introduction aux composants
@@ -22,13 +22,14 @@ Alimentez la carte avec une alimentation 7-9V DC et cette carte pourra alimenter
 
 ![Sensor Shield](images/MicrobitSensorShieldV2.png)
 
-### Module keyestudio LED blanche
+### Module LED blanche
 
 Ce module LED blanche est idéal pour les débutants avec Arduino (?). Il peut être aisément connecté au Sensor Shield. Il permet quelques interactions lumineuses.
 
 ![Module LED](images/WhiteLedModule.png)
 
 #### Spécifications
+
 - Type: Digital
 - PH2.54 socket
 - Taille: 30*20mm
@@ -36,7 +37,8 @@ Ce module LED blanche est idéal pour les débutants avec Arduino (?). Il peut �
 
 ## Cablage du circuit
 
-Insérez le micro:bit dans le keyestudio micro:bit sensor shield. Ensuite, connectez le module LED au micro:bit sensor shield, connectez la S pin au port S, la pin + au port V1 et la pin - au port GND.
+Insérez le micro:bit dans le Sensor Shield.
+Ensuite, connectez le module LED au Sensor Shield, connectez la S pin au port S, la pin + au port V1 et la pin - au port GND.
 
 ![Circuit](images/LedBlinkCircuit.png)
 

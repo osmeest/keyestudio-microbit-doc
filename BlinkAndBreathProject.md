@@ -2,19 +2,19 @@
 
 # Aperçu
 
-Dans ce projet, nous combinons les project [2](LedBlinkProject.md) et [3](BreathProject.md). Vous apprendrez comment controler la LED du module pour la faire clignoter deux fois, puis la faire respirer deux fois, de manière répétitive. Cette fois, nous utiliserons le module LED 3W, qui a une haute intensité et peut être utilisé comme illuminateur.
+Dans ce projet, nous combinons les project [2](LedBlinkProject.md) et [3](BreathProject.md). Vous apprendrez comment controler la LED du module pour la faire clignoter deux fois, puis la faire respirer deux fois, de manière répétitive. Cette fois, nous utiliserons le module **LED 3W**, qui a une haute intensité et peut être utilisé comme illuminateur.
 
 ## Composants nécessaires
 
 - carte micro:bit
 - carte de connexion keyestudio micro:bit Sensor Shield v2
 - cable USB
-- module keyestudio LED 3W
+- module LED 3W
 - 3 cable jumper Dupont
 
 ## Introduction aux composants
 
-### Module keyestudio LED 3W
+### Module LED 3W
 
 Ce module LED a une très haute luminosité car la lampe qu'il inclut a une puissance de 3W. Vous pouvez utiliser ce module pour vos projets Arduino ou d'autres projets, idéal pour les robots et les applications de recherche et secours. Par exemple, les robots intelligents peuvent utiliser ce module à des fins d'illumination.
 Notez que la lumière émise par ce module ne doit pas être dirigée vers des yeux humains pour des raisons de sécurité.
@@ -44,6 +44,24 @@ Ensuite, connectez le module LED au Sensor Shield, connectez la pin S au port S0
 ## Code du programme
 
 ![Code](images/BlinkAndBreathCode.png)
+
+- on start
+  - led enable *false*
+- forever
+  - repeat *2* times do
+    - digital write pin *P0* to *1*
+    - pause (ms) *1000*
+    - digital write pin *P0* to *0*
+    - pause (ms) *1000*
+  - repeat *2* times do
+    - while *val < 1024* do
+      - set *val* = *val + 1*
+      - analog write pin *P0* to *val*
+      - pause (ms) *5*
+    - while *val > 0* do
+      - set *val* = *val - 1*
+      - analog write pin *P0* to *val*
+      - pause (ms) *5*
 
 ## Résultats
 

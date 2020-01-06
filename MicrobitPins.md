@@ -1,4 +1,4 @@
-# micro:bit Pins
+# Connexions de la carte micro:bit
 
 Avant de commencer avec les projets suivant, nous devons d'abord déterminer la/les fonctions de chacune des connexions de la carte micro:bit. Référez vous au diagramme suivant:
 
@@ -37,4 +37,4 @@ Notez que ces informations viennent du site web officiel BBC micro:bit. Pour de 
 - accelerometer: acceléromètre
 - 20-pin edge connector: bord de connecteurs à 20pins
 
-Après avoir maîtrise les informations de base à propos du BBC micro:bit, dans les sections suivantes, passons aux projets de programmation. Utilisez cette petite carte avec le keyestudio micro:bit sensor shield et les autres modules capteurs pour faire des expériences interactives. Jouez avec, apprenez avec. Passez de moments merveilleux !
+Après avoir donné les informations de base à propos du BBC micro:bit, dans les sections suivantes, passons aux projets de programmation. Utilisez cette petite carte avec le Sensor Shield et les autres modules capteurs pour faire des expériences interactives. Jouez avec, apprenez avec. Passez de moments merveilleux !

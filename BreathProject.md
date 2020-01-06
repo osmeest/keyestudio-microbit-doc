@@ -2,7 +2,7 @@
 
 # Aperçu
 
-L'expérience "lumière respirante" est un petit peu similaire à l'[expérience précédente](LedBlinkProject.md). Cette fois, nous connectons le module keyestudio Piranha LED au Sensor Shield. Connectez la pin Signal du module LED au port P0 du micro:bit. Dans le [diagramme de connexion du micro:bit](MicrobitPins.md), on note que le port P0 peut être utilisé comme entrée analogique (Analog In). Dans cette leçon, vous apprendrez comment contrôler la luminosité de la LED du module, la faisant devenir graduellement plus lumineuse puis plus sombre, comme si la LED respirait.
+L'expérience "lumière respirante" est un petit peu similaire à l'[expérience précédente](LedBlinkProject.md). Cette fois, nous connectons le module keyestudio **LED blanche Piranha** au Sensor Shield. Connectez la pin Signal du module LED au port P0 du micro:bit. Dans le [diagramme de connexion du micro:bit](MicrobitPins.md), on note que le port P0 peut être utilisé comme entrée analogique (Analog In). Dans cette leçon, vous apprendrez comment contrôler la luminosité de la LED du module, la faisant devenir graduellement plus lumineuse puis plus sombre, comme si la LED respirait.
 
 ![Diagramme de connexions micro:bit](images/MicrobitPins.png)
 
@@ -11,14 +11,14 @@ L'expérience "lumière respirante" est un petit peu similaire à l'[expérience
 - carte micro:bit
 - carte de connexion keyestudio micro:bit Sensor Shield v2
 - cable USB
-- module keyestudio LED blanche Piranha
+- module LED blanche Piranha
 - 3 cable jumper Dupont
 
 ## Introduction aux composants
 
-### Module keyestudio LED blanche Piranha
+### Module LED blanche Piranha
 
-Le module keyestudio LED blanche Piranha a la même fonction que le module LED blanche simple. La différence réside dans l'apparence et la luminosité contrôlable de la LED sur le module.
+Le module LED blanche Piranha a la même fonction que le module LED blanche simple. La différence réside dans l'apparence et la luminosité contrôlable de la LED sur le module.
 
 ![Module LED blanche Piranha](images/PiranhaWhiteLedModule.png)
 

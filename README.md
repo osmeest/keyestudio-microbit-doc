@@ -1,15 +1,16 @@
-# keyestudio-microbit-doc
+# keyestudio Kit 37-en-1 pour microbit
 
-- [Kit Description](KitDescription.md)
-- [Kit List](KitList.md)
+- [Description du kit](KitDescription.md)
+- [Liste des composants du kit](KitList.md)
 - Installation du driver de port série mbed (Windows)
-- [micro:bit pins](MicrobitPins.md)
+- [Connexions de la carte micro:bit](MicrobitPins.md)
 - [Installation du logiciel Arduino IDE (Windows)](InstallArduinoIde.md)
 - Projets
   1. [Hello World](HelloWorldProject.md)
   2. [LED clignotante](LedBlinkProject.md)
   3. [Respire](BreathProject.md)
-  4. [Clignote et respire](BlinkAndBreathProject.md)
+  4. [Clignote & respire](BlinkAndBreathProject.md)
+  5. [Produire un son](MakeASoundProject.md)
 
   ## Code des programmes
 
