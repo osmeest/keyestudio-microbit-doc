@@ -1,6 +1,6 @@
 # Clignote et respire
 
-# Aperçu
+## Aperçu
 
 Dans ce projet, nous combinons les project [2](LedBlinkProject.md) et [3](BreathProject.md). Vous apprendrez comment controler la LED du module pour la faire clignoter deux fois, puis la faire respirer deux fois, de manière répétitive. Cette fois, nous utiliserons le module **LED 3W**, qui a une haute intensité et peut être utilisé comme illuminateur.
 
