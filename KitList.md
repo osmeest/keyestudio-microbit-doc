@@ -11,7 +11,7 @@
 |7|Module cellule photosensible|![Module capteur photosensible](images/PhotocellSensor.png)|
 |8|Module détecteur analogique de son|![Module détecteur de son](images/AnalogSoundSensor.png)|
 |9|Module capteur analogique de rotation|![Module capteur de rotation](images/AnalogRotationSensor.png)|
-|10|Module buzzer passif|![Module buzzer passif](images/PassiveBuzzerModule.png)|
+|10|Module buzzer passif|![Module buzzer passif](images/PassiveBuzzerModule.png)|[Joue de la musique](PlayMusicProject.md)|
 |11|Module buzzer numérique actif|![Module buzzer numérique](images/DigitalBuzzerModule.png)|[Produire un son](MakeASoundProject.md)|
 |12|Module bouton poussoir numérique|![Module bouton poussoir](images/DigitalPushButton.png)|
 |13|Module capteur numérique d'inclinaison|![Module capteur d'inclinaison](images/DigitalTiltSensor.png)|
