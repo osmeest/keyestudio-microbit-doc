@@ -6,14 +6,14 @@
 |2|Module LED blanche simple|![Module LED blanche](images/WhiteLedModule.png)|[Clignote](LedBlinkProject.md)|
 |3|Module LED blanche Piranha|![Module LED blanche Piranha](images/PiranhaWhiteLedModule.png)|[Respire](BreathProject.md)|
 |4|Module LED 3W|![Module LED 3W](images/3wLedModule.png)|[Clignote & Respire](BlinkAndBreathProject.md)|
-|5|Module LED RGB (couleur)|![Module LED couleur](images/RgbLedModule.png)|
+|5|Module LED RGB (couleur)|![Module LED couleur](images/RgbLedModule.png)|[Changement de couleur](ChangingColorProject.md)|
 |6|Module capteur analogique de température|![Module capteur de température](images/TemperatureSensor.png)|
 |7|Module cellule photosensible|![Module capteur photosensible](images/PhotocellSensor.png)|
 |8|Module détecteur analogique de son|![Module détecteur de son](images/AnalogSoundSensor.png)|
 |9|Module capteur analogique de rotation|![Module capteur de rotation](images/AnalogRotationSensor.png)|
 |10|Module buzzer passif|![Module buzzer passif](images/PassiveBuzzerModule.png)|[Joue de la musique](PlayMusicProject.md)|
 |11|Module buzzer numérique actif|![Module buzzer numérique](images/DigitalBuzzerModule.png)|[Produire un son](MakeASoundProject.md)|
-|12|Module bouton poussoir numérique|![Module bouton poussoir](images/DigitalPushButton.png)|
+|12|Module bouton poussoir numérique|![Module bouton poussoir](images/DigitalPushButton.png)|[Bouton de contrôle](ButtonControlProject.md)|
 |13|Module capteur numérique d'inclinaison|![Module capteur d'inclinaison](images/DigitalTiltSensor.png)|
 |14|Module interrupteur infrarouge|![Module interrupteur infrarouge](images/PhotoIrSwitchModule.png)|
 |15|Module capteur de toucher capacitif|![Module capteur de toucher capacitif](images/CapacitiveTouchSensor.png)|

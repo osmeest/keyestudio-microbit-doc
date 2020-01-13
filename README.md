@@ -12,6 +12,8 @@
   4. [Clignote & respire](BlinkAndBreathProject.md)
   5. [Produire un son](MakeASoundProject.md)
   6. [Joue de la musique](PlayMusicProject.md)
+  7. [Changement de couleur](ChangingColorProject.md)
+  8. [Bouton de contrôle](ButtonControlProject.md)
 
   ## Code des programmes
 
