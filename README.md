@@ -15,6 +15,7 @@
   7. [Changement de couleur](ChangingColorProject.md)
   8. [Bouton de contrôle](ButtonControlProject.md)
   9. [Contrôle par inclinaison](TiltControlProject.md)
+  10. [Interrupteur lumineux](LightInterrupterProject.md)
 
   ## Code des programmes
 

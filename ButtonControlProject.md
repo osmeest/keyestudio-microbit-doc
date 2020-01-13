@@ -20,7 +20,7 @@ Ce module est un module de base. Les boutons sont des composants électroniques 
 
 ![Module bouton poussoir](images/DigitalPushButton.png)
 
-#### Fonctions
+#### Caractéristiques
 - Tension acceptée: entre 3.3V et 5V
 - grand bouton avec un dessus jaune
 - connexions de haute qualité

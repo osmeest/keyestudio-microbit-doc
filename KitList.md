@@ -15,7 +15,7 @@
 |11|Module buzzer numérique actif|![Module buzzer numérique](images/DigitalBuzzerModule.png)|[Produire un son](MakeASoundProject.md)|
 |12|Module bouton poussoir numérique|![Module bouton poussoir](images/DigitalPushButton.png)|[Bouton de contrôle](ButtonControlProject.md)|
 |13|Module capteur numérique d'inclinaison|![Module capteur d'inclinaison](images/DigitalTiltSensor.png)|[Contrôle par inclinaison](TiltControlProject.md)|
-|14|Module interrupteur infrarouge|![Module interrupteur infrarouge](images/PhotoIrSwitchModule.png)|
+|14|Module interrupteur lumineux|![Module interrupteur lumineux](images/LightInterrupterModule.png)|[Interrupteur lumineux](LightInterrupterProject.md)|
 |15|Module capteur de toucher capacitif|![Module capteur de toucher capacitif](images/CapacitiveTouchSensor.png)|
 |16|Module feu tricolore|![Module feu tricolore](images/TrafficLightModule.png)|
 |17|Module capteur magnétique Hall|![Module capteur magnétique Hall](images/HallMagneticSensor.png)|
