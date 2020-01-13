@@ -14,6 +14,7 @@
   6. [Joue de la musique](PlayMusicProject.md)
   7. [Changement de couleur](ChangingColorProject.md)
   8. [Bouton de contrôle](ButtonControlProject.md)
+  9. [Contrôle par inclinaison](TiltControlProject.md)
 
   ## Code des programmes
 

@@ -2,8 +2,7 @@
 
 ## Aperçu
 
-Lorsqu'on concoît un circuit, un interrupteur est un composant utilisé courament..
-La carte micro:bit est dotée de deux boutons poussoir. Cepenant, il est parfois nécessaire d'utiliser un bouton supplémentaire. Dans ce projet, nous apprendrons à utiliser notre module bouton poussoir pour contr$oler l'affichage de différentes images sur la matrice 5x5 de la carte micro:bit.
+Lorsqu'on concoît un circuit, un interrupteur est un composant utilisé courament. La carte micro:bit est dotée de deux boutons poussoir. Cepenant, il est parfois nécessaire d'utiliser un bouton supplémentaire. Dans ce projet, nous apprendrons à utiliser notre module bouton poussoir pour contr$oler l'affichage de différentes images sur la matrice 5x5 de la carte micro:bit.
 
 ## Composants nécessaires
 
